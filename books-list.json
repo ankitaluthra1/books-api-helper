@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "isbn": "9781433337711",
+      "title": "Harry Potter and the Deathly Hallows",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": ""
+    },
+    {
+      "isbn": "9732433337711",
+      "title": "Lord of the rings 4",
+      "author": "J. R. R. Tolkien",
+      "description": "Some description",
+      "imageUrl": "h"
+    }
+  ]
+}
