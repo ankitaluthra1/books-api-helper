@@ -1,18 +1,74 @@
 {
   "books": [
     {
+      "isbn": "9781433987711",
+      "title": "Harry Potter and the philosopher's stone",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp1.jpeg"
+    },
+    {
       "isbn": "9781433337711",
+      "title": "Harry Potter and the chamber of secrets",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp2.jpeg"
+    },
+    {
+      "isbn": "9787433337711",
+      "title": "Harry Potter and the prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp3.jpeg"
+    },
+    {
+      "isbn": "9786543337711",
+      "title": "Harry Potter and the goblet of fire",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp4.jpeg"
+    },
+    {
+      "isbn": "9781433339871",
+      "title": "Harry Potter and the order of phoenix",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp5.jpeg"
+    },
+    {
+      "isbn": "9786543337711",
+      "title": "Harry Potter and the half blood prince",
+      "author": "J.K. Rowling",
+      "description": "Some Description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp6.jpeg"
+    },
+    {
+      "isbn": "978149837711",
       "title": "Harry Potter and the Deathly Hallows",
       "author": "J.K. Rowling",
       "description": "Some Description",
-      "imageUrl": ""
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/hp7.jpeg"
     },
     {
-      "isbn": "9732433337711",
-      "title": "Lord of the rings 4",
+      "isbn": "9732433337710",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
       "author": "J. R. R. Tolkien",
       "description": "Some description",
-      "imageUrl": "h"
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/lor1.jpeg"
+    },
+    {
+      "isbn": "9732443337711",
+      "title": "The Lord of the Rings: The Two Towers",
+      "author": "J. R. R. Tolkien",
+      "description": "Some description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/lor2.jpeg"
+    },
+    {
+      "isbn": "9732437777711",
+      "title": "The Lord of the Rings: The Return of the King",
+      "author": "J. R. R. Tolkien",
+      "description": "Some description",
+      "imageUrl": "https://github.com/ankitaluthra1/books-api-helper/blob/master/images/lor3.jpeg"
     }
   ]
 }
